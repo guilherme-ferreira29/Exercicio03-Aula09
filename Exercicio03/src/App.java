@@ -1,3 +1,6 @@
+// Nome: Guilherme Pablo Sebastião Ferreira
+// Matrícula: 1261939500
+
 public class App {
 
     public static int encontrarMaior(int[] numeros) {
